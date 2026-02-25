@@ -18,8 +18,8 @@ cd software-dev
 
 | Project | Description |
 |---------|-------------|
-| _Coming soon_ | |
+| Personal Website | A personal website and software portfolio |
 
 ## Contact
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@esoriano2002](https://github.com/esoriano2002)
